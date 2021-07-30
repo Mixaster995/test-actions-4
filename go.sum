@@ -1,9 +1,9 @@
-github.com/Mixaster995/test-actions v0.0.0-20210730035240-0c12cc470fff h1:i5819I5JLjYfHWZgNdqryPHlZ4AmrjgJ6R5t5agVvZQ=
-github.com/Mixaster995/test-actions v0.0.0-20210730035240-0c12cc470fff/go.mod h1:oEJFEJuf86fxm+L3Fb2fExUNBTZfCimHyX0hUICMEUo=
-github.com/Mixaster995/test-actions-2 v0.0.0-20210730035346-d4055d5b8f91 h1:Y0eFCMOVHRgdfcadOzlYhYvft3eOfPHFLP89MVSdCo0=
-github.com/Mixaster995/test-actions-2 v0.0.0-20210730035346-d4055d5b8f91/go.mod h1:KnalHNZdioQdvd6x7M65DMjp2PdpbaxShyzdzgf6Njo=
-github.com/Mixaster995/test-actions-3 v0.0.0-20210730035841-f4f45471792e h1:SioSlCpooYdB/Fc6DhcuWIdbZP64w/QrkZHBSCp4t4o=
-github.com/Mixaster995/test-actions-3 v0.0.0-20210730035841-f4f45471792e/go.mod h1:PW1vz6U5o+Nq6YcISSkdCZboy3MJFjNmD+fTF7qRgeo=
+github.com/Mixaster995/test-actions v0.0.0-20210730061343-3d493aeba850 h1:M+9N3vWMAvoc0pVHVcjHs42cmJMdYrzr8sNjsNqGfZ8=
+github.com/Mixaster995/test-actions v0.0.0-20210730061343-3d493aeba850/go.mod h1:oEJFEJuf86fxm+L3Fb2fExUNBTZfCimHyX0hUICMEUo=
+github.com/Mixaster995/test-actions-2 v0.0.0-20210730061506-f80842ffdaad h1:x0MmJkJqigF2x4pdaJOrNd82E39nzomxrCr8ViM+Dqg=
+github.com/Mixaster995/test-actions-2 v0.0.0-20210730061506-f80842ffdaad/go.mod h1:FO/FUhW29aoKTvzLwuz5lJmETdOtB53+CzOOZRNvBxc=
+github.com/Mixaster995/test-actions-3 v0.0.0-20210730061629-6bab520f9143 h1:KbNE6Go39PnTflFc+MA3ej15IWtOew7QRlUxqxs77G0=
+github.com/Mixaster995/test-actions-3 v0.0.0-20210730061629-6bab520f9143/go.mod h1:3q2DMakzqp80OXmPix6vaHqg6NHoxRaRrhsrB/j1EmU=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405 h1:yhCVgyC4o1eVCa2tZl7eS0r+SDo693bJlVdllGtEeKM=
 gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
 gopkg.in/yaml.v2 v2.4.0 h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=
